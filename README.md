@@ -1,4 +1,5 @@
 # SPAR
 Это верстка первого экрана известного приложения сети магазинов SPAR
 
-![Uploading Снимок экрана 2023-08-17 в 12.03.34.png…]()
+<img width="382" alt="spar1" src="https://github.com/Milo4uk/spar/assets/92388527/252237b6-daac-40b3-84ba-728e33908309">
+
